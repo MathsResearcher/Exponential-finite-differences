@@ -20,3 +20,7 @@ We prove that for exponentially spaced sequences \((x, x^2, \dots, x^n)\), the \
 ```bash
 git clone https://github.com/mathsresearcher/exponential-finite-differences.git
 python efd.py --test 5  # Verify Δ² for x=5
+
+## 📫 Contact  
+**Krishna Chauhan**  
+✉️ Email: thekrishnachauhan265@gmail.com  
